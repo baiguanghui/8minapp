@@ -1,7 +1,7 @@
 body{
     background: #000000;
 }
-/*µÚÒ»¸ö¿ªÊ¼*/
+/*ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½Ê¼*/
 .di-1{
 background: white;
     height: 2rem;
@@ -14,15 +14,14 @@ background: white;
     border-radius: 10px;
    background: red;
 }
-/*µÚÒ»¸ö½áÊø*/
+/*ï¿½ï¿½Ò»ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½*/
 
-/*µÚ2¸ö¿ªÊ¼*/
+/*ï¿½ï¿½2ï¿½ï¿½ï¿½ï¿½Ê¼*/
 .dd-1{
 background: white;
     height: 2rem;
     width: 2rem;
     border-radius: 10px;
-
 }
 .dd-2{
     height: 0.5rem;
@@ -31,7 +30,6 @@ background: white;
     background: red;
     padding: 0.2rem;
     margin: 10px;
-
 }
 .dd-3{
     height: 0.5rem;
@@ -39,4 +37,82 @@ background: white;
     border-radius: 10px;
     background: red;
 }
-/*µÚ2¸ö½áÊø*/
+/*ï¿½ï¿½2ï¿½ï¿½ï¿½ï¿½ï¿½ï¿½*/
+
+/*ç¬¬ä¸‰ä¸ªå¼€å§‹*/
+.shan{
+    background: white;
+    height: 2rem;
+    width: 2rem;
+    border-radius: 10px;
+    padding: 0.1rem 0.1rem;
+}
+.shan-1{
+    height: 0.5rem;
+    width: 0.5rem;
+    border-radius: 10px;
+    background: red;
+    padding: 0.2rem;
+}
+.shan-2{
+    height: 0.5rem;
+    width: 0.5rem;
+    border-radius: 10px;
+    background: red;
+    padding: 0.2rem;
+    margin: 10px;
+}
+.shan-3{
+    height: 0.5rem;
+    width: 0.5rem;
+    border-radius: 10px;
+    background: red;
+    padding: 0.2rem;
+}
+/*ç¬¬ä¸‰ä¸ªç»“æŸ*/
+
+/*ç¬¬4ä¸ªå¼€å§‹*/
+.si{
+    background: white;
+    height: 2rem;
+    width: 2rem;
+    border-radius: 10px;
+}
+.ss{
+    padding: 0.3rem 0.1rem;
+}
+.sss{
+    margin:0 0.1rem;
+}
+.si-1{
+    height: 0.5rem;
+    width: 0.5rem;
+    border-radius: 10px;
+    background: red;
+margin-right: 0.8rem;
+}
+.si-2 {
+    height: 0.5rem;
+    width: 0.5rem;
+    border-radius: 10px;
+    background: red;
+}
+.si-3{
+    height: 0.5rem;
+    width: 0.5rem;
+    border-radius: 10px;
+    background: red;
+    margin-right: 0.8rem;
+}
+.si-4{
+    height: 0.5rem;
+    width: 0.5rem;
+    border-radius: 10px;
+    background: red;
+
+}
+/*ç¬¬4ä¸ªç»“æŸ*/
+
+/*ç¬¬5ä¸ªå¼€å§‹*/
+
+/*ç¬¬5ä¸ªç»“æŸ*/
