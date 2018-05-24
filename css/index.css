@@ -1,217 +1,28 @@
 body{
     background: #000000;
 }
-/*��һ����ʼ*/
-.di-1{
+/*第一个开始*/
+.box{
 background: white;
-    height: 2rem;
-    width: 2rem;
+    height: 20vw;
+    width: 20vw;
     border-radius: 10px;
 }
-.di-2{
-    height: 0.5rem;
-    width: 0.5rem;
+.one{
+    height: 40%;
+    width: 40%;
     border-radius: 10px;
    background: red;
 }
-/*��һ������*/
 
-/*��2����ʼ*/
-.dd-1{
-background: white;
-    height: 2rem;
-    width: 2rem;
-    border-radius: 10px;
-}
-.dd-2{
-    height: 0.5rem;
-    width: 0.5rem;
-    border-radius: 10px;
-    background: darkblue;
-    padding: 0.2rem;
-    margin: 10px;
-}
-.dd-3{
-    height: 0.5rem;
-    width: 0.5rem;
-    border-radius: 10px;
-    background: darkblue;
-}
-/*��2������*/
-
-/*第三个开始*/
-.shan{
-    background: white;
-    height: 2rem;
-    width: 2rem;
-    border-radius: 10px;
-    padding: 0.1rem 0.1rem;
-}
-.shan-1{
-    height: 0.5rem;
-    width: 0.5rem;
-    border-radius: 10px;
-    background: darkblue;
-    padding: 0.2rem;
-}
-.shan-2{
-    height: 0.5rem;
-    width: 0.5rem;
-    border-radius: 10px;
-    background: darkblue;
-    padding: 0.2rem;
-    margin: 10px;
-}
-.shan-3{
-    height: 0.5rem;
-    width: 0.5rem;
-    border-radius: 10px;
-    background:darkblue;
-    padding: 0.2rem;
-}
-/*第三个结束*/
-
-/*第4个开始*/
-.si{
-    background: white;
-    height: 2rem;
-    width: 2rem;
-    border-radius: 10px;
-}
-.ss{
-    padding: 0.3rem 0.1rem;
-}
-.sss{
-    margin:0 0.1rem;
-}
-.si-1{
-    height: 0.5rem;
-    width: 0.5rem;
+.tow{
+    height:4vw;
+    width: 4vw;
     border-radius: 10px;
     background: red;
-margin-right: 0.8rem;
+display: block;
 }
-.si-2 {
-    height: 0.5rem;
-    width: 0.5rem;
-    border-radius: 10px;
-    background: red;
-}
-.si-3{
-    height: 0.5rem;
-    width: 0.5rem;
-    border-radius: 10px;
-    background: red;
-    margin-right: 0.8rem;
-}
-.si-4{
-    height: 0.5rem;
-    width: 0.5rem;
-    border-radius: 10px;
-    background: red;
-
-}
-/*第4个结束*/
-
-/*第5个开始*/
-.wu{
-    background: white;
-    height: 2rem;
-    width: 2rem;
-    border-radius: 10px; background: white;
-    height: 2rem;
-    width: 2rem;
-    border-radius: 10px;
-}
-.wu-1{
-    height: 0.5rem;
-    width: 0.5rem;
-    border-radius: 10px;
-    background: darkblue;
-    margin-right: 1rem;
-}
-.wu-2{
-    height: 0.5rem;
-    width: 0.5rem;
-    border-radius: 10px;
-    background: darkblue;
-}
-.wu-3{
-    height: 0.5rem;
-    width: 0.5rem;
-    border-radius: 10px;
-    background: darkblue;
-
-}
-.wu-4{
-    height: 0.5rem;
-    width: 0.5rem;
-    border-radius: 10px;
-    background: darkblue;
-    margin-right: 1rem;
-}
-.wu-5{
-    height: 0.5rem;
-    width: 0.5rem;
-    border-radius: 10px;
-    background: darkblue;
-}
-.www{
+.pp{
     padding: .2rem ;
 }
-.ww{
-    padding-top: 0.05rem;
-}
-/*第5个结束*/
-/*<!--第6个开始-->*/
-.liu{
-    background: white;
-    height: 2rem;
-    width: 2rem;
-    border-radius: 10px;
-}
-.liu-1{
-    height: 0.5rem;
-    width: 0.5rem;
-    border-radius: 10px;
-    background: darkblue;
-}
-.liu-2{
-    height: 0.5rem;
-    width: 0.5rem;
-    border-radius: 10px;
-    background: darkblue;
-margin: 0.3rem 0;
-}
-.liu-3{
-    height: 0.5rem;
-    width: 0.5rem;
-    border-radius: 10px;
-    background: darkblue;
-}
-.liu-4{
-    height: 0.5rem;
-    width: 0.5rem;
-    border-radius: 10px;
-    background: darkblue;
-}
-.liu-5{
-    height: 0.5rem;
-    width: 0.5rem;
-    border-radius: 10px;
-    background: darkblue;
-    margin: 0.3rem 0;
-}
-.liu-6{
-    height: 0.5rem;
-    width: 0.5rem;
-    border-radius: 10px;
-    background: darkblue;
-}
-.ll{
-margin-left: 0.3rem;
-}
-.lll{
-    margin-right: 0.3rem;
-}
-/*<!--第6个结束-->*/
+
