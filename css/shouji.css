@@ -1,0 +1,15 @@
+.swiper-container {
+    width: 100vw;
+    height:100vh;
+}
+.swiper-slide{
+    background-image: url("../img/beijing.jpg");
+}
+.ba{
+   width: 100vw;
+    height: 45vh;
+}
+.m{
+    color: white;
+    font-size: 30px;
+}
