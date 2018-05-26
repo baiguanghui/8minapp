@@ -66,13 +66,14 @@
 
 /*第4层开始*/
 .wb{
-    margin-top: 0.46rem;
+    margin-top: 0.4rem;
 }
 .wb>i{
     color: white;
     font-size: 0.36rem;
     /*padding-top: 0.46rem;*/
     transform: rotate(180deg);
+    -webkit-transform: rotate(180deg);
 }
 .wb>p{
     color: white;
@@ -121,15 +122,19 @@
     padding: 0.2rem 0 ;
 }
 /*尾部层开始*/
-.wbb{
-  margin-top: 4.46rem;
+.wwb{
+/*position: fixed;*/
+    /*top:calc( 50% - 25%);-webkit-calc(50% - 25%);*/
+    /*right: 50%;*/
+
 }
+
 .wbb>i{
     color: white;
     font-size: 0.36rem;
-    padding-top: 0.46rem;
+    /*padding-top: 0.46rem;*/
 }
-.wbb{
+.wbb>p{
     color: white;
     font-size: 0.28rem;
     padding-top: 0.26rem;
