@@ -5,11 +5,131 @@
 .swiper-slide{
     background-image: url("../img/beijing.jpg");
 }
+/*头部开始*/
 .ba{
    width: 100vw;
-    height: 45vh;
+    height: 4.5rem;
 }
 .m{
     color: white;
-    font-size: 30px;
+    font-size: 0.42rem;
+    padding-top: 0.065rem;
+    text-shadow: 120px,4px,2px,rgba(0,0,0,0.29);
 }
+.fj{
+    margin-top: 0.027rem;
+}
+.fj>p{
+    font-size: 0.27rem;
+    color: white;
+    display: inline-block;
+}
+.fj>i{
+    color: white;
+    font-size:0.16rem ;
+    display: inline-block;
+}
+.bj{
+   background: rgba(0,0,0,0.05);
+    margin: 0 0.7rem;
+}
+/*头部开始*/
+
+/*第1层开始*/
+.ku{
+    border-radius: 10px;
+    width: 6.1rem;
+    height:0.64rem ;
+    background-color:#8fcc4e;
+    margin: 0.19rem 0 0.17rem 0;
+}
+.ku>p{
+    color: white;
+    font-size: .03rem;
+}
+/*第1层结束*/
+
+/*第2层开始*/
+.ew>img{
+    height: 3rem;
+    width: 3rem;
+}
+/*第2层结束*/
+
+/*第3层开始*/
+.ss>p{
+    font-size: 0.24rem;
+    color: white;
+    padding: 0.2rem 0 ;
+}
+/*第3层结束*/
+
+/*第4层开始*/
+
+.wb>i{
+    color: white;
+    font-size: 0.36rem;
+    /*padding-top: 0.46rem;*/
+    transform: rotate(180deg);
+}
+.wb>p{
+    color: white;
+    font-size: 0.28rem;
+    padding-top: 0.26rem;
+}
+/*第4层结束*/
+
+/*第二页开始*/
+.fj{
+   margin-top: 1.46rem;
+}
+.fj>p{
+    font-size: 0.27rem;
+    color: white;
+    display: inline-block;
+}
+.fj>i{
+    color: white;
+    font-size:0.16rem ;
+    display: inline-block;
+}
+
+.bj{
+    background: rgba(0,0,0,0.05);
+    margin: 0 0.7rem;
+}
+.kuk{
+    border-radius: 10px;
+    width: 6.1rem;
+    height:0.64rem ;
+    background-color:#42adff;
+    margin: 0.19rem 0 0.17rem 0;
+}
+.kuk>p{
+    color: white;
+    font-size: .03rem;
+}
+.ew>img{
+    height: 3.03rem;
+    width: 3.03rem;
+}
+.ss>p{
+    font-size: 0.24rem;
+    color: white;
+    padding: 0.2rem 0 ;
+}
+/*尾部层开始*/
+.wbb{
+    padding: 4.52rem 0.46rem 0;
+}
+.wbb>i{
+    color: white;
+    font-size: 0.36rem;
+    padding-top: 0.46rem;
+}
+.wbb>p{
+    color: white;
+    font-size: 0.28rem;
+    padding-top: 0.26rem;
+}
+/*尾部层结束*/
