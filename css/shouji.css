@@ -70,6 +70,11 @@
     left: 50%;
     bottom:0.47rem;
     transform: translate(-50%,-50%);
+
+    animation-name:tiaodong;
+    animation-duration:1.5s ;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 .wb>i{
     color: white;
@@ -128,6 +133,11 @@ position: absolute;
     left: 50%;
     bottom:0.47rem;
     transform: translate(-50%,-50%);
+
+    animation-name:tiaodong;
+    animation-duration:1.5s ;
+    animation-timing-function: linear;
+    animation-iteration-count: infinite;
 }
 
 .wbb>i{
@@ -139,3 +149,25 @@ position: absolute;
     font-size: 0.28rem;
 }
 /*尾部层结束*/
+
+@keyframes tiaodong {
+    0%{
+        opacity: 1;
+    }
+    50%{
+        opacity: 0;
+    }
+    100%{
+        opacity:1;
+    }
+}
+
+@-webkit-keyframes tiaodong {
+    from{
+        opacity: 1;
+    }
+  to{
+        opacity: 0;
+    }
+}
+
