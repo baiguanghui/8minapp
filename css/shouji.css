@@ -13,7 +13,7 @@
 .m{
     color: white;
     font-size: 0.42rem;
-    padding-top: 0.065rem;
+    padding-top: 0.026rem;
     text-shadow: 0 4px 2px rgba(0,0,0,0.29);
     -webkit-box-shadow: 0 4px 2px rgba(0,0,0,0.29);
 
@@ -24,6 +24,7 @@
 .fj>p{
     font-size: 0.27rem;
     color: white;
+    padding: 0.026rem 0 0.016rem;
 }
 .fj>i{
     color: white;
